@@ -1,4 +1,4 @@
-# 👋 Дароу, я Дмитро | Software Engineering Student
+# 👋 Сап, я Дмитро | Software Engineering Student
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=435&lines=Software+Engineering+Student;Java+%26+Assembly+Developer;Frontend+%26+GUI+Creator" alt="Typing SVG" />
